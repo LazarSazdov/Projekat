@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605173891 source:d:\desktop\projekat\projekat.c
+	<stdio.h>
+	<stdlib.h>
+	"projekat.h"
+	<string.h>
+
+1605169501 d:\desktop\projekat\projekat.h
+
+1605168833 source:d:\desktop\projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projekat.h"
+
