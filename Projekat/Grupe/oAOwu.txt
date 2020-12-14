@@ -1,0 +1,9 @@
+grupa1
+lazar
+7
+#
+!
+lazar:
+OVO JE NOVA PORUKA
+lazar:
+OK

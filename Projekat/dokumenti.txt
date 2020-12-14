@@ -1,6 +1,6 @@
-Lazar
-Sazdov
+lazar
+sazdov
 lazar@gmail.com
 lazar
 1234
-Offline
+Online

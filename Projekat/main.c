@@ -25,15 +25,30 @@ int main()
         }else if(a == 3 && x == 1){
             brisanje();
         }else if(a == 4 && x == 1){
+            kreiranje_grupe();
+        }else if(a == 5 && x == 1){
+            izmena_grupe();
+
+        }else if(a == 6 && x == 1){
+            brisanje_grupe();
+
+        }else if(a == 7 && x == 1){
+            ulazak();
+
+        }else if(a == 8 && x == 1){
+            prijateljli();
+
+        }else if(a == 9 && x == 1){
+            akcije_grupe();
+
+        }else if(a == 10 && x == 1){
             printf("\nKRAJ!\n");
             break;
         }
+   }while(5);
 
 
 
-
-
-    }while(5);
 
 
     return 0;
